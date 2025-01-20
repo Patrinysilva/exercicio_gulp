@@ -1,0 +1,1 @@
+function ಠ_ಠ396(){console.log(testado)}
